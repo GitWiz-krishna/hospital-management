@@ -1,21 +1,21 @@
 Hospital Management System
-Overview
-A Hospital Management System (HMS) built using Java and MySQL to manage hospital operations such as patient registration, doctor management, appointments, and discharge records.
+📖 Overview
+The Hospital Management System (HMS) is a sleek and efficient tool developed in Java and powered by MySQL to streamline hospital operations. This system covers patient registration, doctor management, appointments, and discharge tracking—all designed for optimal efficiency and ease of use.
 
-Features
-Add Patient: Register new patients with personal and medical details.
+🚀 Features
+Add Patient: Quickly register new patients with their medical and personal details.
 
-Add Doctor: Add doctors along with their specialization.
+Add Doctor: Seamlessly add doctors along with their specialized fields.
 
-View All Patients: List all patients with their basic details.
+View All Patients: View an organized list of all registered patients.
 
-View All Doctors: List all doctors with their specialization.
+View All Doctors: Access a comprehensive list of doctors and their specializations.
 
-Manage Appointments: Schedule and view appointments between patients and doctors.
+Manage Appointments: Schedule and track patient appointments with doctors.
 
-Discharge Management: Track patient discharge details.
+Discharge Management: Effectively manage and track patient discharge details.
 
-Technologies Used
+💻 Technologies Used
 Backend: Java (JDBC for database connectivity)
 
 Database: MySQL
@@ -23,3 +23,4 @@ Database: MySQL
 IDE: Eclipse
 
 Version Control: Git
+
